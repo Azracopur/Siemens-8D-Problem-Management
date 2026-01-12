@@ -1,0 +1,8 @@
+html, body, #root {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: var(--theme-color-background);
+  color: var(--theme-color-std-text);
+  font-family: 'Siemens Sans', sans-serif;
+}

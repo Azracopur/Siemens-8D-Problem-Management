@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@siemens/ix": "^4.2.0",
+    "@siemens/ix-icons": "^3.3.0",
+    "@siemens/ix-react": "^4.2.0",
+    "jspdf": "^4.0.0",
+    "jspdf-autotable": "^5.0.7",
+    "xlsx": "^0.18.5"
+  }
+}

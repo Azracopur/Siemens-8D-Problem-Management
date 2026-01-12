@@ -2,7 +2,7 @@
 
 | Dashboard (D1-D2) | Kök Neden Analizi (D4) | Kök Neden & Aksiyon (D5) |
 |:---:|:---:|:---:|
-| ![Dashboard](./screenshots/dashboard.png) | ![Analysis](./screenshots/tree-analysis.png) | ![Root Cause](./screenshots/RootCause.png) |
+| ![Dashboard](./screenshots/Dashboard.png) | ![Analysis](./screenshots/TreeAnalysis.png) | ![Root Cause](./screenshots/RootCause.png) |
 
 > **Not:** Kullanıcı bir nedeni "Kök Neden" olarak işaretlediğinde, D5 aksiyon alanı aktifleşir ve problem durumu otomatik olarak güncellenir.
 
